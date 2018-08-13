@@ -1,0 +1,9 @@
+Package: com.kietha.taptapsleep
+Name: TapTapSleep
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Double tap your status bar to sleep your device with no more scroll lag!
+Maintainer: Kiet Ha
+Author: Kiet Ha
+Section: Tweaks
