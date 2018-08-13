@@ -1,3 +1,5 @@
+//Copyright © 2018 Kiet Ha
+
 @interface SpringBoard : NSObject  
 -(void)_simulateLockButtonPress; //gotta define it u know?
 @end
