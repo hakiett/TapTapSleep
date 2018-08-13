@@ -37,4 +37,4 @@
     }
   }
  
-*/https://developer.apple.com/documentation/darwinnotify/1433440-notify_register_dispatch?language=objc /* read more about notify register dispatch here: /*
+*/ https://developer.apple.com/documentation/darwinnotify/1433440-notify_register_dispatch?language=objc /* read more about notify register dispatch here: /*
