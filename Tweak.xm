@@ -21,7 +21,7 @@
     return self;
 }
 
-%new // hey lets make a new void 
+%new // new method
 
 -(void)tapping {
   notify_post("com.kietha.taptapsleep"); 
